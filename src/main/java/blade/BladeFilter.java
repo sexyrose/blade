@@ -26,7 +26,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import blade.jetm.JetmKit;
+import blade.jetm.JetmApplication;
 import blade.log.Logger;
 import blade.route.RouteMatcherBuilder;
 
@@ -115,7 +115,7 @@ public class BladeFilter implements Filter {
     @Override
     public void destroy() {
     	IocApplication.destroy();
-    	JetmKit.shutDown();
+    	JetmApplication.shutDown();
     	LOGGER.info("blade destroy!");
     }
 

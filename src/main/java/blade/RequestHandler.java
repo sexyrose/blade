@@ -27,8 +27,8 @@ import blade.http.Response;
 import blade.ioc.Container;
 import blade.ioc.DefaultContainer;
 import blade.ioc.Scope;
-import blade.jetm.JetmKit;
 import blade.jetm.JetmPoint;
+import blade.jetm.JetmPointBuilder;
 import blade.kit.PathKit;
 import blade.kit.ReflectKit;
 import blade.log.Logger;
@@ -128,7 +128,7 @@ public class RequestHandler {
         try {
         	
         	// 监控执行时间
-            JetmPoint point = JetmKit.createPoint(uri);
+            JetmPoint point = JetmPointBuilder.createPoint(uri);
             
         	// 执行before拦截
         	before(requestWrapper, responseWrapper, httpRequest, uri, acceptType);
@@ -166,7 +166,7 @@ public class RequestHandler {
 	        		render(responseWrapper, result);
 	        	}
 	        	
-	        	JetmKit.collectAndRender(point);
+	        	JetmPointBuilder.collectAndRender(point);
 	        	
 				return true;
 				
