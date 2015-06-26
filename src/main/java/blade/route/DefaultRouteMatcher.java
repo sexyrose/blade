@@ -56,9 +56,9 @@ public class DefaultRouteMatcher {
      * @return				返回一个路由匹配对象
      */
     public RouteMatcher findRouteMatcher(HttpMethod httpMethod, String uri, String acceptType) {
-    	if(uri.length() > 1){
-    		uri = uri.endsWith("/") ? uri.substring(0, uri.length() - 1) : uri;
-    	}
+    	
+    	uri = uri.length() > 1 && uri.endsWith("/") ? uri.substring(0, uri.length() - 1) : uri;
+    	
         List<RouteMatcher> routeEntries = this.findRouteMatcher(httpMethod, uri);
         
         RouteMatcher entry = findTargetWithGivenAcceptType(routeEntries, acceptType);
@@ -209,7 +209,8 @@ public class DefaultRouteMatcher {
      * @return					返回匹配的所有路由集合
      */
     private List<RouteMatcher> findRouteMatcher(HttpMethod httpMethod, String path) {
-    	path = path.endsWith("/") ? path.substring(0, path.length() - 1) : path;
+    	path = path.length() > 1 && path.endsWith("/") ? path.substring(0, path.length() - 1) : path;
+    	
         List<RouteMatcher> matchSet = new ArrayList<RouteMatcher>();
         for (RouteMatcher entry : routes) {
             if (entry.matches(httpMethod, path)) {
