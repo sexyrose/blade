@@ -115,23 +115,20 @@ OK, all this may seem simple, refer to the guidelines for use more ready-made ex
 
 ## Update Log
 
-### v1.0.8
-	1. Optimize the file upload
-	2. Optimized matching routing
-	3. Add methods perform monitoring
-	
-### v1.0.4
-	1. Optimize the underlying IO
-	2. Simplify the plug-in extension
-	3. Matching vehicle routing separation
-	4. Repair jetty in running maven environment more bugs
-	
-### v1.0.1
+### v1.1.0
 	1. Remove excess public methods
 	2. Add the `Blade.run()` run jetty
 	3. Add the `Blade.register()` method register bean object
 	4. Optimize the ioc object management
 	5. Add initialization to monitor the context
+	6. Optimize the underlying IO
+	7. Simplify the plug-in extension
+	8. Matching vehicle routing separation
+	9. Repair jetty in running maven environment more bugs
+	10. Optimize the file upload
+	11. Optimized matching routing
+	12. Add methods perform monitoring
+	13. Add cache support
 
 ### v1.0.0
 	The first stable release
