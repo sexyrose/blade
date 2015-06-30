@@ -9,13 +9,13 @@
 [![JDK](http://img.shields.io/badge/JDK-v1.6+-blue.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 [![maven](https://img.shields.io/maven-central/v/com.bladejava/blade.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.bladejava%22)
 
-**blade** 是一个轻量级快速开发web应用程序的框架，它集成了IOC对象管理，拦截器配置，REST API开发等众多主流web特性。
+**blade** 是一个轻量级快速开发web应用框架，它内置了IOC管理，拦截器配置，REST API开发等众多主流web特性，集成了模板引擎，缓存插件，数据库操作，邮件发送等常用功能，简洁的源码值得你阅读和学习。如果你喜欢，欢迎star and fork ！
 
 ## Blade特性
 
-+ 简洁的MVC
++ 简洁的MVC + 拦截器
 + REST风格API
-+ 注解+正则拦截器
++ 注解方式开发
 + 微内核IOC容器
 + 实用工具类
 + 模板引擎支持

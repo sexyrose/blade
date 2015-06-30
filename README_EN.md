@@ -11,18 +11,18 @@
 
 ## Introduction
 
-**blade** Is a lightweight rapid development of the web application framework, it integrates the IOC object management, vehicle configuration, REST API development and so on many mainstream web features.
+**blade** Is a lightweight rapid development of web application framework, it is built into the IOC administration, the interceptor configuration, REST API development and so on many mainstream web features, integrate the template engine, a cache plug-in, database operations, commonly used functions such as email, concise source deserves your reading. If you like it, can be star or fork, thanks!
 
 ## Features
 
-+ Simple MVC
++ Simple MVC and Interceptor
 + REST API
-+ Note the interceptor
++ Annotation way development
 + The microkernel IOC container
 + Utility class
 + A template engine support
 + Support JDK1.6 +
-+ Built-in jetty start
++ Jetty is started
 + Plug-in extension mechanism
 + ...
 
