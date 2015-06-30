@@ -9,9 +9,11 @@
 [![JDK](http://img.shields.io/badge/JDK-v1.6+-blue.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 [![maven](https://img.shields.io/maven-central/v/com.bladejava/blade.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.bladejava%22)
 
+## Introduction
+
 **blade** Is a lightweight rapid development of the web application framework, it integrates the IOC object management, vehicle configuration, REST API development and so on many mainstream web features.
 
-## Blade Features
+## Features
 
 + Simple MVC
 + REST API
@@ -113,7 +115,7 @@ OK, all this may seem simple, refer to the guidelines for use more ready-made ex
 [Blade Guide](http://bladejava.com/doc/en)
 
 
-## Update Log
+## Update
 
 ### v1.1.0
 	1. Remove excess public methods
@@ -133,10 +135,10 @@ OK, all this may seem simple, refer to the guidelines for use more ready-made ex
 ### v1.0.0
 	The first stable release
 			
-## Open source licenses
+## licenses
 Blade Framework based on the[Apache2 License](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-## Contact me
+## Contact
 Mail: biezhi.me#gmail.com
 
 QQ Group: [1013565](http://shang.qq.com/wpa/qunwpa?idkey=932642920a5c0ef5f1ae902723c4f168c58ea63f3cef1139e30d68145d3b5b2f)
