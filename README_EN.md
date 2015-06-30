@@ -15,7 +15,7 @@
 
 ## Features
 
-+ Simple MVC and Interceptor
++ Simple MVC & Interceptor
 + REST API
 + Annotation way development
 + The microkernel IOC container
@@ -112,8 +112,9 @@ public class Hello {
 	
 OK, all this may seem simple, refer to the guidelines for use more ready-made examples for your reference:
 
-[Blade Guide](http://bladejava.com/doc/en)
+[Blade Guide](http://#) (The ongoing)
 
+some examples:[http://github.com/bladejava](http://github.com/bladejava)
 
 ## Update
 

@@ -13,7 +13,7 @@
 
 ## Blade特性
 
-+ 简洁的MVC + 拦截器
++ 简洁的MVC & 拦截器
 + REST风格API
 + 注解方式开发
 + 微内核IOC容器
@@ -110,7 +110,9 @@ public class Hello {
 	
 OK，这一切看起来多么的简单，查阅使用指南更多现成的例子供你参考:
   
-[Blade使用指南](http://bladejava.com/doc/cn)
+[Blade使用指南](http://#) (正在完善中...)
+
+一些例子：[http://github.com/bladejava](http://github.com/bladejava)
  
 ## 更新日志
 
