@@ -67,7 +67,7 @@ public class App extends BladeApplication{
 	Logger logger = Logger.getLogger(App.class);
 	@Override
 	public void init() {
-		// 设置路由、拦截器包所在包
+		// Set up routing and interceptor bag in bag
 		Blade.defaultRoute("blade.sample");
 	}
 	
