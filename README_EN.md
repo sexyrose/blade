@@ -11,7 +11,7 @@
 
 ## Introduction
 
-**blade** Is a lightweight rapid development of web application framework, it is built into the IOC administration, the interceptor configuration, REST API development and so on many mainstream web features, integrate the template engine, a cache plug-in, database operations, commonly used functions such as email, concise source deserves your reading. If you like it, can be star or fork, thanks!
+**blade** Is a lightweight, rapid development of web framework, it is built into the `IOC` administration, the interceptor configuration, `REST API` development and so on many mainstream web features, integrate the template engine, a cache plug-in, database operations, commonly used functions such as email, concise source deserves your reading. If you like it, can be `Star or Fork`, thanks!
 
 ## Features
 
