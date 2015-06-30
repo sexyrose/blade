@@ -117,6 +117,13 @@ OK, all this may seem simple, refer to the guidelines for use more ready-made ex
 
 ## Update
 
+### v1.1.2
+	1. Optimize sql2o support
+	2. Remove the blade-kit useless class
+	3. Add email support
+	4. Add a program timing
+	5. Add the HTTP request support network
+	
 ### v1.1.0
 	1. Remove excess public methods
 	2. Add the `Blade.run()` run jetty
