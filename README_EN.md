@@ -136,7 +136,7 @@ OK, all this may seem simple, refer to the guidelines for use more ready-made ex
 	The first stable release
 			
 ## licenses
-Blade Framework based on the[Apache2 License](http://www.apache.org/licenses/LICENSE-2.0.html)
+Blade Framework based on the [Apache2 License](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## Contact
 Mail: biezhi.me#gmail.com

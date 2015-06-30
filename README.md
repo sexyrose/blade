@@ -113,6 +113,13 @@ OK，这一切看起来多么的简单，查阅使用指南更多现成的例子
 [Blade使用指南](http://bladejava.com/doc/cn)
  
 ## 更新日志
+
+### v1.1.2
+	1. 优化sql2o支持
+	2. 去除blade-kit无用类
+	3. 添加邮件支持
+	4. 添加程序计时支持
+	5. 添加http网络请求支持
 		
 ### v1.1.0
 	1. 去除对外公开的多余方法展示
@@ -133,7 +140,7 @@ OK，这一切看起来多么的简单，查阅使用指南更多现成的例子
 	第一个稳定版本发布
 
 ## 开源协议
-Blade框架基于[Apache2 License](http://www.apache.org/licenses/LICENSE-2.0.html)
+Blade框架基于 [Apache2 License](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## 联系我
 Mail: biezhi.me#gmail.com

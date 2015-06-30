@@ -21,7 +21,6 @@ import java.util.Map;
 
 import blade.ioc.Container;
 import blade.ioc.DefaultContainer;
-import blade.jetm.JetmApplication;
 import blade.render.Render;
 import blade.render.RenderFactory;
 import blade.route.DefaultRouteMatcher;
@@ -468,9 +467,5 @@ abstract class BladeBase {
 	static synchronized void init() {
         BladeBase.IS_INIT = true;
     }
-	
-	public static synchronized void jetm(boolean printRoute){
-		JetmApplication.open(printRoute);
-	}
 	
 }
