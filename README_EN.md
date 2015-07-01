@@ -1,12 +1,12 @@
 #Blade
-*The Swiss army knife in javaweb*
+
+![*javaweb中的瑞士军刀*](http://i1.tietuku.com/8fb5016d5123bbe9.png)
 
 [中文](https://github.com/biezhi/blade/blob/master/README.md)
 
 [![@biezhi on weibo](https://img.shields.io/badge/weibo-%40biezhi-red.svg)](http://weibo.com/u/5238733773)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Build Status](https://api.travis-ci.org/biezhi/blade.svg?branch=master)](https://travis-ci.org/biezhi/blade)
-[![Coverage Status](https://coveralls.io/repos/biezhi/blade/badge.svg)](https://coveralls.io/r/biezhi/blade)
 [![JDK](http://img.shields.io/badge/JDK-v1.6+-blue.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 [![maven](https://img.shields.io/maven-central/v/com.bladejava/blade.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.bladejava%22)
 
@@ -115,7 +115,7 @@ OK, all this may seem simple, refer to the guidelines for use more ready-made ex
 
 [Blade Guide](http://#) (The ongoing)
 
-some examples:[http://github.com/bladejava](http://github.com/bladejava)
+some examples:[https://github.com/bladejava](https://github.com/bladejava)
 
 ## Update
 

@@ -1,12 +1,12 @@
 #Blade
-*javaweb中的瑞士军刀*
+
+![*javaweb中的瑞士军刀*](http://i1.tietuku.com/8fb5016d5123bbe9.png)
 
 [English](https://github.com/biezhi/blade/blob/master/README_EN.md)
 
 [![@biezhi on weibo](https://img.shields.io/badge/weibo-%40biezhi-red.svg)](http://weibo.com/u/5238733773)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Build Status](https://api.travis-ci.org/biezhi/blade.svg?branch=master)](https://travis-ci.org/biezhi/blade)
-[![Coverage Status](https://coveralls.io/repos/biezhi/blade/badge.svg)](https://coveralls.io/r/biezhi/blade)
 [![JDK](http://img.shields.io/badge/JDK-v1.6+-blue.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 [![maven](https://img.shields.io/maven-central/v/com.bladejava/blade.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.bladejava%22)
 
@@ -113,7 +113,7 @@ OK，这一切看起来多么的简单，查阅使用指南更多现成的例子
   
 [Blade使用指南](http://#) (正在完善中...)
 
-一些例子：[http://github.com/bladejava](http://github.com/bladejava)
+一些例子：[https://github.com/bladejava](https://github.com/bladejava)
  
 ## 更新日志
 
@@ -149,5 +149,4 @@ Blade框架基于 [Apache2 License](http://www.apache.org/licenses/LICENSE-2.0.h
 Mail: biezhi.me#gmail.com
 
 Java交流群: [1013565](http://shang.qq.com/wpa/qunwpa?idkey=932642920a5c0ef5f1ae902723c4f168c58ea63f3cef1139e30d68145d3b5b2f)
-
 
