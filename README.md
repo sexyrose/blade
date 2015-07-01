@@ -14,16 +14,16 @@
 
 ## Blade特性
 
-+ 简洁的MVC & 拦截器
-+ REST风格API
-+ 注解方式开发
-+ 微内核IOC容器
-+ 实用工具类
-+ 模板引擎支持
-+ 支持JDK1.6+
-+ 内置Jetty启动
-+ 插件扩展机制
-+ ...
+* 简洁的MVC & 拦截器
+* REST风格API
+* 注解方式开发
+* 微内核IOC容器
+* 实用工具类
+* 模板引擎支持
+* 支持JDK1.6+
+* 内置Jetty启动
+* 插件扩展机制
+* ...
 
 ## 快速入门
 第一步、用maven构建一个webapp，加入blade的依赖，推荐获取[最新版本](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.bladejava%22)

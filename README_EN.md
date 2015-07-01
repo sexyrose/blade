@@ -16,16 +16,16 @@
 
 ## Features
 
-+ Simple MVC & Interceptor
-+ REST API
-+ Annotation way development
-+ The microkernel IOC container
-+ Utility class
-+ A template engine support
-+ Support JDK1.6 +
-+ Jetty is started
-+ Plug-in extension mechanism
-+ ...
+* Simple MVC & Interceptor
+* REST API
+* Annotation way development
+* The microkernel IOC container
+* Utility class
+* A template engine support
+* Support JDK1.6 +
+* Jetty is started
+* Plug-in extension mechanism
+* ...
 
 ## Quick start
 First. Use maven to build a webapp, join dependency on the blade,Recommended for the [latest version](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.bladejava%22)
