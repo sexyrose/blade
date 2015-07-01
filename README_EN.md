@@ -1,6 +1,6 @@
 #Blade
 
-![*javaweb中的瑞士军刀*](http://i1.tietuku.com/8fb5016d5123bbe9.png)
+![a concise and powerful web development framework](http://i1.tietuku.com/8fb5016d5123bbe9.png)
 
 [中文](https://github.com/biezhi/blade/blob/master/README.md)
 
@@ -12,7 +12,7 @@
 
 ## Introduction
 
-**blade** Is a lightweight, rapid development of web framework, it is built into the `IOC` administration, the interceptor configuration, `REST API` development and so on many mainstream web features, integrate the template engine, a cache plug-in, database operations, commonly used functions such as email, concise source deserves your reading. If you like it, can be `Star or Fork`, thanks!
+**blade** Is a concise and powerful web development framework, it is built into the `IOC` administration, the interceptor configuration, `REST API` development and so on many mainstream web features, integrate the template engine, a cache plug-in, database operations, commonly used functions such as email, concise source deserves your reading. If you like it, can be `Star or Fork`, thanks!
 
 ## Features
 

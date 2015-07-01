@@ -1,6 +1,6 @@
 #Blade
 
-![*javaweb中的瑞士军刀*](http://i1.tietuku.com/8fb5016d5123bbe9.png)
+![简洁强大的JavaWeb框架](http://i1.tietuku.com/8fb5016d5123bbe9.png)
 
 [English](https://github.com/biezhi/blade/blob/master/README_EN.md)
 
@@ -10,7 +10,7 @@
 [![JDK](http://img.shields.io/badge/JDK-v1.6+-blue.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 [![maven](https://img.shields.io/maven-central/v/com.bladejava/blade.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.bladejava%22)
 
-**blade** 是一个轻量级，可快速开发的web框架，它内置了`IOC`管理，拦截器配置，`REST API`开发等众多主流web特性，集成了模板引擎，缓存插件，数据库操作，邮件发送等常用功能，简洁的源码值得你阅读和学习。如果你喜欢，欢迎`Star and Fork` ！
+**blade** 是一个简洁强大的web框架，它内置了`IOC`管理，拦截器配置，`REST API`开发等众多主流web特性，集成了模板引擎，缓存插件，数据库操作，邮件发送等常用功能，简洁的源码值得你阅读和学习。如果你喜欢，欢迎`Star and Fork` ！
 
 ## Blade特性
 
