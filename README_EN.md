@@ -1,6 +1,6 @@
 #Blade
 
-![a concise and powerful web development framework](http://i1.tietuku.com/8fb5016d5123bbe9.png)
+![a concise and powerful web development framework](http://i1.tietuku.com/0c4b9726253b6268.png)
 
 [中文](https://github.com/biezhi/blade/blob/master/README.md)
 
@@ -8,7 +8,7 @@
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Build Status](https://api.travis-ci.org/biezhi/blade.svg?branch=master)](https://travis-ci.org/biezhi/blade)
 [![Circle CI](https://circleci.com/gh/biezhi/blade/tree/master.svg?style=svg)](https://circleci.com/gh/biezhi/blade/tree/master)
-[![maven](https://img.shields.io/maven-central/v/com.bladejava/blade.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.bladejava%22)
+[![release](https://img.shields.io/maven-central/v/com.bladejava/blade.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.bladejava%22)
 
 ## Introduction
 
